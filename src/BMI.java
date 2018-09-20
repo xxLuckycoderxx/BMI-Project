@@ -4,7 +4,11 @@ public class BMI {
    public static void main(String [] args){
 
 
-    int kg,wg;
+
+    double feet;
+    double num;
+    
+
      Scanner keyboard;
 
     //intilaize
@@ -13,16 +17,15 @@ public class BMI {
 
    //BMI=kg/m*m
 
-System.out.println("Please enter your weight in kilograms below");
-kg=keyboard.nextInt();
 
-System.out.println("Please enter your height in meters below");
-wg=keyboard.nextInt();
-
+System.out.println("Please enter your height  below");
+feet=keyboard.nextDouble();
+feet*(1/0.025);
 
 
 
-       System.out.println("Your BMI is "+ (kg/wg)+"!");
+
+
 
    }
 }

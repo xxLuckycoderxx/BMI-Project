@@ -20,8 +20,8 @@
       <file leaf-file-name="BMI.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/BMI.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="80">
-              <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
+            <state relative-caret-position="437">
+              <caret line="27" column="16" lean-forward="true" selection-start-line="27" selection-start-column="16" selection-end-line="27" selection-end-column="16" />
             </state>
           </provider>
         </entry>
@@ -46,7 +46,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="294" />
+    <option name="x" value="502" />
+    <option name="y" value="50" />
     <option name="width" value="999" />
     <option name="height" value="735" />
   </component>
@@ -155,7 +156,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="630" y="3" width="999" height="735" extended-state="0" />
+    <frame x="616" y="0" width="999" height="735" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
@@ -199,8 +200,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/BMI.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="80">
-          <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
+        <state relative-caret-position="437">
+          <caret line="27" column="16" lean-forward="true" selection-start-line="27" selection-start-column="16" selection-end-line="27" selection-end-column="16" />
         </state>
       </provider>
     </entry>

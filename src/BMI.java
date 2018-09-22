@@ -4,31 +4,23 @@ public class BMI {
    public static void main(String [] args){
 
 
+public static void main(String[]args{
 
-    double height ;
-    double weight;
-    double BMI;
-    Scanner keyboard;
+Scanner keyboard;
+double pounds;
+double inches;
 
-    //intilaize
-   keyboard=new Scanner(System.in);
-   //BMI=kg/m*m
+keyboard=new Scanner(System.in);
 
-System.out.println("Please enter your height(inches only) below.");
+System.out.println("Please enter your weight below (pounds only) bellow");
+pounds=keyboard.nextInt();
+pounds=weight*(0.453592/1);
 
-height =keyboard.nextDouble();
-height=height*(1/0.025);
+System.out.println("Please enter your height(inches only)bellow');
+inches=keyboard.nextInt();
+inches=height*(0.0254/1);
 
-
-System.out.println("Please enter your weight(only pounds)below.");
-weight=keyboard.nextDouble();
-weight= weight*(1/0.453592);
-
-           System.out.println("Your weight is " + weight+" in kilograms.");
-           System.out.println("Your height is "+ height+" in meters.");
-
-
-           System.out.println("Your BMI is "+(weight/(height*height)));
+System.out.println("Your BMI is " + (pounds /inches *inches));
 
 
    }
